@@ -1,0 +1,163 @@
+body {
+    border: solid 2px;
+    border-radius: 0.5rem;
+    margin: 2rem;
+    /* background:#eca1a6 */
+}
+
+
+.boxx1{
+    display:flex;
+    margin: 3rem;
+    padding: 1.5rem;
+    border-style: solid;
+    border-color:darkslategray;
+    border-width: 2px;
+    box-shadow: 2px 2px 2px rgb(97, 97, 97);
+    background-color: antiquewhite;
+    border-radius: 0.5rem;
+    justify-content: center;
+    width: 69rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.dl{
+margin-left: 1rem;
+}
+
+.dl1{
+    margin-left: 10rem;
+}
+
+
+.main{
+    margin: 3rem;
+    display: flex;
+}
+.main1{
+    margin: 0;
+    padding: 1rem;
+    background-color:#eca1a6;
+}
+
+.text{
+    border: solid 2px black;
+    /* width: 23rem; */
+    padding: 0.5rem;
+    border-radius: 5px;
+    width: 22rem;
+    margin: 7px;
+}
+
+#button{
+    margin: 0.5rem;
+    background-color:crimson;
+    color: white;
+    border-color:crimson;
+    border-radius: 10px;
+    width: 9rem;
+    font-size: inherit;
+    margin-left: 7rem
+    
+}
+
+
+
+#button1{
+    margin: 0.5rem;
+    background-color:crimson;
+    color: white;
+    border-color:crimson;
+    border-radius: 10px;
+    width: 9rem;
+    font-size: inherit;
+    margin-left: 2rem
+    
+}
+
+
+#image{
+    margin-left: 34rem ;
+    width:400px;
+    border-radius: 1rem;
+}
+
+
+#dis{
+font-size: 1.2rem;
+}
+.boxx{
+    margin: 3rem;
+    padding: 1.5rem;
+    border-style: solid;
+    border-color:darkslategray;
+    border-width: 2px;
+    box-shadow: 2px 2px 2px rgb(97, 97, 97);
+    background-color: antiquewhite;
+    border-radius: 0.5rem;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.input1{
+    width: 22rem;
+    margin: 7px;
+}
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+  }
+
+.lables{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    vertical-align: middle;
+  }
+#form input{
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+
+#button:hover{
+    color: crimson;
+    background-color: white;
+    cursor: pointer;
+}
+#button1:hover{
+    color: crimson;
+    background-color: white;
+    cursor: pointer;
+}
+
+.boxx:hover{
+    border:solid 2px crimson ;
+}
+.boxx1:hover{
+    border:solid 2px crimson ;
+}
+
+#form input:hover{
+    border: solid 2px crimson;
+    cursor: pointer;
+}
+
+.text:hover{
+    border: solid 2px crimson;
+    cursor: pointer;
+
+}
+
+
+.sub{
+    width: 20rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+
+.box{
+    margin-left: 1rem;
+}
+
